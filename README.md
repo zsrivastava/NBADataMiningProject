@@ -1,1 +1,2 @@
 # NBADataMiningProject
+The goal of this project was to evaulate the uptick in 3-point shooting in the NBA and observe how it has changed the role of the center position. The typical center is often viewed as the biggest and strongest guy on the court, who plays near the hoop and collects rebounds. We observed the trend in 3-point shooting among centers and non-centers, and made predictions of the percentage of shots that will be 2-pointers and 3-pointers. We used two datasets
